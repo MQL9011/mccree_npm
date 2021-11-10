@@ -1,9 +1,13 @@
 {
   "name": "@mccree_npm/mccree",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.ts",
+  "description": "邦道前端开源组件库",
+  "main": "index.js",
   "private": false,
+  "keywords": [
+    "npm",
+    "amap"
+  ],
   "scripts": {},
   "repository": {
     "type": "git",
@@ -15,7 +19,5 @@
     "url": "https://github.com/MQL9011/mccree_npm/issues"
   },
   "homepage": "https://github.com/MQL9011/mccree_npm#readme",
-  "dependencies": {
-    "@mccree_npm/mccree": "^1.0.0"
-  }
+  "dependencies": {}
 }
