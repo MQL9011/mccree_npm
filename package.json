@@ -1,20 +1,16 @@
 {
-  "name": "mccree_test",
+  "name": "@mccree_npm/mccree",
   "version": "1.0.0",
-  "description": "测试",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "mccree"
-  ],
-  "author": "mccree",
-  "license": "ISC",
+  "description": "",
+  "main": "index.ts",
+  "private": false,
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MQL9011/mccree_npm.git"
   },
+  "author": "",
+  "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/MQL9011/mccree_npm/issues"
   },
