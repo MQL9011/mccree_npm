@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/MQL9011/mccree_npm/issues"
   },
-  "homepage": "https://github.com/MQL9011/mccree_npm#readme"
+  "homepage": "https://github.com/MQL9011/mccree_npm#readme",
+  "dependencies": {
+    "@mccree_npm/mccree": "^1.0.0"
+  }
 }
