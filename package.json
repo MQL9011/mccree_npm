@@ -1,5 +1,5 @@
 {
-  "name": "@mccree_npm/GaoMap",
+  "name": "@mccree_npm/gao-map",
   "version": "1.0.0",
   "description": "高德地图Vue组件,全网最全的高德地图JSAPI封装.",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "keywords": [
     "npm",
     "amap",
-    "GapMap"
+    "gao-map"
   ],
   "scripts": {},
   "repository": {
