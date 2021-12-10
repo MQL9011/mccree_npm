@@ -1,5 +1,5 @@
 {
-  "name": "gao-map",
+  "name": "gmap-vue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,6 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@babel/core": "^7.16.0",
-    "babel-loader": "^8.2.3",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },

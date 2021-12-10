@@ -1,4 +1,4 @@
-# gao-map
+# gmap-vue
 
 ## Project setup
 ```
